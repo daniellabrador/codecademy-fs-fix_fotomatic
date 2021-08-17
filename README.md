@@ -1,6 +1,6 @@
-# **Fix Me: Fotomatic**
+# **Fix: Fotomatic**
 
-This program does something. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path) has been an invaluable exercise in enhancing my skills to do something.
+This training project, prepared by [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path), is one of the capstone projects that assesses my debugging skills on HTML and CSS.
 
 ## Table of Contents
 
@@ -11,7 +11,7 @@ This program does something. This training project, prepared by [Codecademy](htt
 
 ## Project Prompt
 
-Fix a broken version of a responsive website in this project!
+Fix a [broken version](https://daniellabrador.github.io/fix-fotomatic/broken/broken.html) of a responsive website in this project!
 
 In this project you will fix a broken version of a responsive website called Fotomatic. You will update it to look and work exactly the same as the specs do. Download the broken code [here](https://content.codecademy.com/courses/freelance-1/capstone-1/capstone_fotomatic_start.zip) and the specs [here](https://content.codecademy.com/courses/freelance-1/capstone-1/specs/fotomatic_spec_landing.png).
 
@@ -19,13 +19,14 @@ As you fix Fotomatic’s bugs, remember to use the skills you acquired in the Ch
 
 ## Technologies
 
+- HTML5
 - CSS3
 
 ## Setup
 
-To view the final output, view the live site [here](https://daniellabrador.github.io/codecademy-fix_me-fotomatic/). You can also check the broken version [here](https://daniellabrador.github.io/codecademy-fix_me-fotomatic/broken/broken.html/) for comparison.
+To view the final output, view the live site [here](https://daniellabrador.github.io/fix-fotomatic/). You can also check the broken version [here](https://daniellabrador.github.io/fix-fotomatic/broken/broken.html) for comparison.
 
 ## Sources
 
 The techniques utilized was based on the lessons taught in [Codecademy's Full-Stack Engineer Course](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path
-). The challenges are also provided by Codecademy.
+). The challenge is also provided by Codecademy.
