@@ -1,6 +1,6 @@
 # **Fix: Fotomatic**
 
-This training project, prepared by [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path), is one of the capstone projects that assess my debugging skills in HTML and CSS.
+Fotomatic is a fictional shop that sells cameras and camera accessories. This training project, prepared by [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path), is one of the capstone projects that assess my debugging skills in HTML and CSS.
 
 ## Table of Contents
 
