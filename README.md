@@ -1,6 +1,6 @@
 # **Fix: Fotomatic**
 
-This training project, prepared by [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path), is one of the capstone projects that assesses my debugging skills on HTML and CSS.
+This training project, prepared by [Codecademy](https://www.codecademy.com/learn/paths/full-stack-engineer-career-path), is one of the capstone projects that assess my debugging skills in HTML and CSS.
 
 ## Table of Contents
 
