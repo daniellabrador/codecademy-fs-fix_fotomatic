@@ -24,7 +24,7 @@ As you fix Fotomatic’s bugs, remember to use the skills you acquired in the Ch
 
 ## Setup
 
-To view the final output, view the live site [here](https://daniellabrador.github.io/fix-fotomatic/). You can also check the broken version [here](https://daniellabrador.github.io/fix-fotomatic/broken/broken.html) for comparison.
+To view the final output, view the live site [here](https://daniellabrador.github.io/codecademy-fs-fix_fotomatic/). You can also check the broken version [here](https://daniellabrador.github.io/fix-fotomatic/broken/broken.html) for comparison.
 
 ## Sources
 
